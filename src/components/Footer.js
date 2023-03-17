@@ -11,9 +11,6 @@ function Footer() {
       <FacebookIcon/>
       <InstagramIcon/>
       <TwitterIcon/>
-
-
-
       </div>
       <p>© 2023 Hamburger, Inc. </p>
 
